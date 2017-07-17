@@ -1,1 +1,1 @@
-This is a demo to learn the git fecth command. Git is exciting to learn. 
+This is a demo to learn the git fetch command. Git is exciting to learn.I understood this command better from a video tutorial. Thanks to guy . 
