@@ -1,1 +1,1 @@
-today i am learning the gitfetch command and how it works. This is just a sample text file. 
+today i am learning the gitfetch command and how it works. This is just a sample text file. I want to learn more about the git pull command also. I will make learning git more fun so that everybody enjoys learning . 
